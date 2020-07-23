@@ -1452,6 +1452,10 @@ input, select, textarea {
 		margin: 0 auto 2em auto;
 	}
 
+	/* @media screen and (max-width: 480px) { */
+
+
+
 		.gallery article {
 			-moz-transition: -moz-transform 1s ease, opacity 1s ease;
 			-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
@@ -1825,7 +1829,6 @@ input, select, textarea {
 				transform: translateY(7em);
 			}
 
-		@media screen and (max-width: 480px) {
 
 			.gallery {
 				-moz-flex-wrap: nowrap;
